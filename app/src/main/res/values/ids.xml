@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="next_button" type="id" />
+    <item name="rb2" type="id" />
+    <item name="rb3" type="id" />
+    <item name="rb4" type="id" />
+    <item name="rgrp" type="id" />
+</resources>
